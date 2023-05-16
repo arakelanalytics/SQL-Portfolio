@@ -4,7 +4,11 @@ MBA 6527 Spring 2023
 Option #4 Code*/
 
 /*PROMPT: 
-You are an analyst at XZY Grocery Stores, and your boss has asked you to look at some inventory and recent transaction data and find the top 5 items where the current inventory is at risk of being depleted.  Look at the purchase history of each item and compare the number that have been purchased to the number remaining in the current inventory and report the 5 items that you think have the greatest risk of running out before the next inventory shipment.*/
+You are an analyst at XZY Grocery Stores, and your boss has asked you to look at some inventory
+and recent transaction data and find the top 5 items where the current inventory is at risk of being depleted.  
+Look at the purchase history of each item and compare the number that have been purchased to the number remaining 
+in the current inventory and report the 5 items that you think have the greatest risk of running out before the 
+next inventory shipment.*/
 
 #VIEW AND JOIN DATA
 #view inventory data
